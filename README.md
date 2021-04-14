@@ -1,2 +1,2 @@
-# Material_Strength-Prediction
+# Material_Strength_Prediction
  Prediction of Strength based on features like cement, ash,slag age.Descriptive Analysis of Data is done.VIF factor is calculated for identifying for multicollinearity.PCA is done for reducing the multicollinearity Prediction is done using Linear Regression ,Lasso, Ridge,Decision Tree , KNN, SVM, AdaBoost , Gradient Boost,XGBoost, Random Forest.Check is done if different features are forming cluster between them. Validation of data is done using K fold, Hyper parameter tuning is done using Grid Search.Analysed feature importance,Feature Selection is done.Learning curve for each model is plotted 
